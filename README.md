@@ -5,3 +5,4 @@ Bem vindos (as)! Neste repositório você poderá encontrar os Dashboards realiz
 Em cada pasta está uma projeto diferente, junto com um README.md explicando mais sobre as etapas e construção dos visuais.
 
 ### Projetos
+- [Dashboard Acesso a Internet](https://github.com/cibelenay/dashboar-powerBI/tree/main/Acesso%20a%20Internet)
