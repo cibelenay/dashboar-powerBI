@@ -7,3 +7,4 @@ Em cada pasta está uma projeto diferente, junto com um README.md explicando mai
 ### Projetos
 - [Dashboard Utilização de Internet](https://github.com/cibelenay/dashboar-powerBI/tree/main/Acesso%20a%20Internet)
 - [Dashboard de vendas](https://github.com/cibelenay/dashboar-powerBI/tree/main/Vendas)
+- [Dashboard de Futebol -  Re x PA](https://github.com/cibelenay/dashboar-powerBI/tree/main/Futebol).
