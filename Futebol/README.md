@@ -1,6 +1,7 @@
 ### Análise quantitativa de um clássico de futebol
 
 Esse Dashboard foi realizado como atividade no curso de Power BI.
+
 O clássico Rei da Amazônia, RE x PA, é o clássico mais jogado do Brasil
 
 Diretrizes para elaborar o relatório:
