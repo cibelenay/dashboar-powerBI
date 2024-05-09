@@ -8,4 +8,4 @@ Em cada pasta está uma projeto diferente, junto com um README.md explicando mai
 - [Dashboard Utilização de Internet](https://github.com/cibelenay/dashboar-powerBI/tree/main/Acesso%20a%20Internet)
 - [Dashboard de vendas](https://github.com/cibelenay/dashboar-powerBI/tree/main/Vendas)
 - [Dashboard de Futebol -  Re x PA](https://github.com/cibelenay/dashboar-powerBI/tree/main/Futebol).
-- [Dashboard de Loja de Roupas] - (https://github.com/cibelenay/dashboar-powerBI/tree/main/Loja%20de%20Roupas)
+- [Dashboard de Loja de Roupas](https://github.com/cibelenay/dashboar-powerBI/tree/main/Loja%20de%20Roupas)
