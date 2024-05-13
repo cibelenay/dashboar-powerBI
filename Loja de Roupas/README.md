@@ -5,8 +5,9 @@ Esse Dashboard foi realizado como atividade no curso de Power BI.
 Diretrizes para elaborar o relatório:
 1. Botões para direcionar para outros painéis
 2. Inclusão de clientes
-3. Cidades atendidas
-4. Top 10 das maiores faixa etárias
+3. Ranking top 3 clientes
+4. Cidades atendidas
+5. Top 10 das maiores faixa etárias
 6. Quantidade de clientes por sexo
 7. Produtos mais vendidos
 8. Total de produtos
